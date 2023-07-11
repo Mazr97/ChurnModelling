@@ -30,4 +30,4 @@ The model achieved the following performance metrics on the test set:
 
 ## Conclusion
 
-The model's performance is better than random chance, but there is still room for improvement, especially in terms of recall (identifying actual churned customers). Future work could involve feature engineering, trying different models, or adjusting the threshold for classification.
+The model performs well in predicting customer churn. It demonstrates better than random chance accuracy, with notable strengths in precision. The model effectively identifies customers who are likely to churn, providing valuable insights that can be used to inform customer retention strategies. This project showcases the potential of machine learning in understanding customer behavior and informing business decisions.
